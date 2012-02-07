@@ -25,7 +25,9 @@
       </snapshots>
     </repository>
   </repositories>
-  <properties>
-    <hudson.version>1.381</hudson.version>
-  </properties>
+  <scm>
+    <connection>scm:git:git://github.com/huybrechts/favorite-view-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:huybrechts/favorite-view-plugin.git</developerConnection>
+    <url>https://github.com/huybrechts/favorite-view-plugin</url>
+  </scm>
 </project>
